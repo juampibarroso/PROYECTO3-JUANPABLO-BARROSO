@@ -1,0 +1,20 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin-top: 1rem;
+}
+
+.text-footer{
+    font-size: 32px;
+}
+
+.github-icon{
+    height: 32px;
+    transition: .5s ease-in-out;
+}
+
+.github-icon:hover{
+    transform: rotate(360deg);
+}

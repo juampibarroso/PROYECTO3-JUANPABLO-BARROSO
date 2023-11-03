@@ -1,0 +1,202 @@
+[
+    {
+        "categoria": "propiedad",
+        "tipo": "Casa un ambiente.",
+        "factor": 1.09
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Casa dos ambientes",
+        "factor": 1.05
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Departamento en Edificio",
+        "factor": 1.02
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Casa en Barrio Privado",
+        "factor": 1.19
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Oficina",
+        "factor": 2.39
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Local Comercial",
+        "factor": 1.41
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Depósito",
+        "factor": 1.92
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Terreno",
+        "factor": 1.08
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Ph",
+        "factor": 1.13
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Casa de Campo",
+        "factor": 1.25
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Chalet",
+        "factor": 1.15
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Departamento en PH",
+        "factor": 1.03
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Casa Quinta",
+        "factor": 1.21
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Dúplex",
+        "factor": 1.09
+    },
+    {
+        "categoria": "propiedad",
+        "tipo": "Local en Galería",
+        "factor": 1.45
+    },
+
+    
+
+
+
+    {
+        "categoria": "ubicacion",
+        "tipo": "CABA",
+        "factor": 1.13
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Buenos Aires",
+        "factor": 1.10
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Catamarca",
+        "factor": 1.08
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Chaco",
+        "factor": 1.05
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Chubut",
+        "factor": 1.12
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Cordoba",
+        "factor": 1.17
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Corrientes",
+        "factor": 1.04
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Entre Rios",
+        "factor": 1.10
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Formosa",
+        "factor": 1.03
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Jujuy",
+        "factor": 1.06
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "La Pampa",
+        "factor": 1.09
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "La Rioja",
+        "factor": 1.07
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Mendoza",
+        "factor": 1.14
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Misiones",
+        "factor": 1.05
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Neuquen",
+        "factor": 1.11
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Rio Negro",
+        "factor": 1.10
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Salta",
+        "factor": 1.06
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "San Juan",
+        "factor": 1.08
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "San Luis",
+        "factor": 1.09
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Santa Cruz",
+        "factor": 1.16
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Santa Fe",
+        "factor": 1.10
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Santiago del Estero",
+        "factor": 1.07
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Tierra del Fuego",
+        "factor": 1.15
+    },
+    {
+        "categoria": "ubicacion",
+        "tipo": "Tucuman",
+        "factor": 1.05
+    }
+]

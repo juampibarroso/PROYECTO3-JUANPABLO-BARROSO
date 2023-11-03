@@ -1,0 +1,37 @@
+.titulo-historial{
+    text-align: center;
+    font-size: 32px;
+}
+
+.table-container {
+    text-align: center;
+    margin: 0 auto; /* Establece los márgenes izquierdo y derecho a "auto" para centrar horizontalmente */
+}
+
+
+table{
+   
+    background-color: aliceblue;
+    color: #222222;
+    border-radius: 20px;
+   
+    border-collapse: separate; /* Separar los bordes de las celdas */
+    border-spacing: 30px 20px; /* Espacio vertical entre las filas de la tabla */
+}
+
+
+
+
+@media screen and(max-width:475px){
+    .historial-container{
+        width: 100%;
+    }
+
+    .titulo-historial{
+        font-size: 2rem;
+    }
+
+    table{
+        width: 100%;
+    }
+}
